@@ -1,2 +1,2 @@
 # web_login
-simple web login and web registration page based on php and mysql
+web login and registration page based on php oop and mysql 
